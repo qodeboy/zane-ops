@@ -1,0 +1,20 @@
+deploy-scripts/Makefile
+  s_3d6d4bf6dc3627::t_8988b285fe4e03 138-141
+  s_3d6d4bf6dc3627::t_e6f8de7bffc631 154,156-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "4677cc41c0cef509e0d7692ae6c5bd6d200a1bf4",
+  "prompts": {},
+  "sessions": {
+    "s_3d6d4bf6dc3627": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2ad4a15d-c8f8-4104-b368-b75bb4f5b241",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Pavlo Sheiman <pavel.sheiman@gmail.com>"
+    }
+  }
+}
